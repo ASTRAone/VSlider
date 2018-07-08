@@ -1,0 +1,2 @@
+# VSlider
+JS Simple Slider
