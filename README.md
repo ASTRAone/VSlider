@@ -9,15 +9,15 @@ JS Simple Slider
 <br>
 <p>In order to connect the plugin to HTML-element, you must call VSlider method.See below.</p>
 <br>
-$('element selector').VSlider();
+<p>$('element selector').VSlider();</p>
 <br>
 <p>This code creates a slider from div element with width=600px, height=450px and gray border.</p>
 <br>
-$('#d1').VSlider({border:"1px solid grey",width:"600px",height:"450px"});
+<p>$('#d1').VSlider({border:"1px solid grey",width:"600px",height:"450px"});</p>
 <br>
 <p>All images put into separate directory with name given by "img_path" property of this plugin.</p>
 <br>
-$('#d1').VSlider({border:"1px solid grey",width:"600px",height:"450px",img_path:"images"});
+<p>$('#d1').VSlider({border:"1px solid grey",width:"600px",height:"450px",img_path:"images"});</p>
 <br>
 <p>Also images must have one prefix in their name. For example, we want to slide 3 images. Their names with prefix "img" should be:</p>
 <br>
@@ -27,7 +27,7 @@ img3.png<br>
 <br>
 <p>A "img_pref" property sets prefix for images name. For example, if we want to slide *.jpg images, code for connect plugin must be:</p>
 <br>
-$('#d1').VSlider({border:"1px solid grey",width:"600px",height:"450px",img_path:"images",img_pref:"jpg"});
+<p>$('#d1').VSlider({border:"1px solid grey",width:"600px",height:"450px",img_path:"images",img_pref:"jpg"});</p>
 <br>
 <p>A "anim_speed" property sets the animation speed. Default value is 400.</p>
 <br>
