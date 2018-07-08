@@ -1,7 +1,7 @@
 # VSlider
 JS Simple Slider
 
-Usage
+<p>Usage</p>
 Download files  jquery-3.2.1.js, VSlider.js and include it in your HTML:
 
 <script src="./js/jquery-3.2.1.js"></script>
